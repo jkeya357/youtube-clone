@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from './Components/NavBar/NavBar'
 import { Route, Routes } from 'react-router-dom'
-import Home from './Pages/Home/HOME.JSX'
+import Home from './Pages/Home/Home'
 import Video from './Pages/Video/Video'
 import { useState } from 'react'
 
